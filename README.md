@@ -1,5 +1,5 @@
 # Zombiessss
-A first person shooter game for pc witch Unity and C#
+A first person shooter game for pc with Unity and C#
 
 ## Screenshots
 ![in game 3](https://github.com/atakankar/KillZombies/blob/main/SS/3.png)
